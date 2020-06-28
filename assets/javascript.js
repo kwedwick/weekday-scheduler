@@ -15,8 +15,13 @@ function displayDateTime() {
 
 
 
+function saveTask() {
+
+}
+
+
 /*
-var saveTasks = function () {
+var storeTasks = function () {
     localStorage.setItem("tasks", JSON.stringify(tasks));
 }; */
 
