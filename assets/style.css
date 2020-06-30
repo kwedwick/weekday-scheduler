@@ -35,12 +35,12 @@ textarea {
   border-top: 1px solid white;;
 }
 
-.hour-block {
+.hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
-  text-align: right;
-  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 10px
 }
 
 .past {
