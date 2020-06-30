@@ -1,10 +1,10 @@
 # Work Day Scheduler
 
-Create a day scheduler using Bootstrap, Jquery, and Momoment.js
+Create a day scheduler using Bootstrap, JQuery, and Momoment.js
 
-https://kwedwick.github.io/timed-quiz/
+https://kwedwick.github.io/weekday-scheduler/
 
-https://github.com/kwedwick/timed-quiz
+https://github.com/kwedwick/weekday-scheduler
 
 ## Table of Contents
 
@@ -17,12 +17,12 @@ https://github.com/kwedwick/timed-quiz
 1. First I needed to build out the bootsrap rows and columns to contain the time schedule
 2. Next was the find the kind of text box I needed to use
 3. When I had the bootstrap div's planned, I looked at the CSS to place them accordingly. Some weren't entirely used and may rework them later.
-4. Javascript was then planned out:
+4. JavaScript was then planned out:
     - Started with getting the time and date done on top to have it refresh every second to match the time up as much as possible
     - Linked the text box with the save button
     - Then coded to save and load functions 
     - Finally, needd the hourly tasks to change color based on the hours
-        - Ultimately, I didn't like the text fields changing color because I thought it was tacky and hard to read so I put them on the time column. If this would be a requirement, i would potentially have the background color outsdie of the text box change color instead to keep readability high.
+        - Ultimately, I didn't like the text fields changing color because I thought it was tacky and hard to read so I put them on the time column. If this would be a directive, I would potentially have the background color outsdie of the text box change color instead to keep readability high.
 
 ## Issues
 
